@@ -1,0 +1,12 @@
+* {
+    background-image: url();
+}
+.wrapper {
+    align-content: center;
+    position: relative;
+    margin-top: 100px;
+}
+footer {
+    text-align: center;
+    align-content: center;
+}
