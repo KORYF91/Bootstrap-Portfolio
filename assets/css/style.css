@@ -1,7 +1,10 @@
+/* note */
+/*This is one of my new favorite backgrounds*/
 body {
     background-image: url(../images/black_thread/black_thread_@2X.png);
 }
 
+/*here we used similar css code from the first project - we added the z-index to allow the main content to go behind with scrolling*/
 .header {
     top: 0;
     padding: 40px 40px 40px 40px;
@@ -16,6 +19,7 @@ body {
     position: fixed;
     z-index: 10;   
 }
+/*was able to custom style the logo option from bootst*/
 .navbar-brand {
     padding: 15px 0 30px 0;
     width: 200px;
@@ -26,7 +30,7 @@ body {
     text-align: center; 
     font-size: 18pt;
 }
-
+/*same css from the first project again implemented the z-index*/
 .wrapper {
     padding: 50px;
     margin: 200px auto 300px auto;
@@ -50,7 +54,7 @@ h1{
     text-align: center; 
     font-size: 18pt;
     z-index: 10;
-
+    
 }
 
 .footer {
